@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_marginTop="@dimen/dim_top"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="@dimen/dim_title"
+        android:text="@string/connexion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:layout_marginRight="@dimen/dim_right"
+        android:layout_marginLeft="@dimen/dim_left"
+        android:id="@+id/txtLogin"
+        android:layout_marginTop="@dimen/dim_top"
+        android:hint="@string/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:layout_marginRight="@dimen/dim_right"
+        android:layout_marginLeft="@dimen/dim_left"
+        android:inputType="textPassword"
+        android:id="@+id/txtPassword"
+        android:layout_marginTop="@dimen/dim_top"
+        android:hint="@string/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:textColor="@color/white"
+        android:backgroundTint="@color/bleu_primary"
+        android:layout_marginRight="@dimen/dim_right"
+        android:layout_marginLeft="@dimen/dim_left"
+        android:id="@+id/btnConnect"
+        android:layout_marginTop="@dimen/dim_top"
+        android:text="@string/connect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:textColor="@color/white"
+        android:backgroundTint="@color/bleu_dark"
+        android:layout_marginRight="@dimen/dim_right"
+        android:layout_marginLeft="@dimen/dim_left"
+        android:id="@+id/btnSignUp"
+        android:layout_marginTop="@dimen/dim_top"
+        android:text="@string/sign_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<resources>
+
+    <string name="app_name">MySchool</string>
+
+    <!--Page de connexion-->
+    <string name="connexion">Connexion</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="email">isi@groupeisi.com</string>
+    <string name="presentation">Formation</string>
+    <string name="marks">Marks</string>
+    <string name="university">University</string>
+    <string name="help">Help</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">O Level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+
+    <!--Buttons-->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+
+    <string name="wait">Please wait</string>
+    <string name="error_fields">Required field</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parameters">Incorrect parameters</string>
+    <string name="description">
+        Located at km1 avenue cheikh Anta Diop, the ISI computer science institute, is under the supervision of the Ministry
+        of Private Higher Education which is a signatory of all the diplomas issued, under the control of the ANAQ- Sup.
+        ISI has been contributing for more than 27 years to the training of young African executives.
+        With the ambition of the CEO, to participate in the diversification of the training offer in Senegal and in the sub-region,
+        the ISI has been able to develop over the years, thus counting within it 09 campuses, or rub shoulders with more than thirty
+        nationalities, which constitute the beautiful Isienne family.
+        The group has experts of very high university level and specialists in several fields of IT and management.
+        Thanks to its expertise and the quality of its services, the ISI Group delivers Bachelor and Master degrees recognized both by
+        the business world and by the national "ANAQ SUP" and pan-African "CAMES" accreditation bodies. ".
+        With a diversified training offer in the professions of the future, a permanent innovation of its programs, and the brilliant
+        results obtained in the various exams and competitions, The Higher Institute of Informatics "ISI"
+        is a leader in its field at Senegal and in the sub-region.
+    </string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
